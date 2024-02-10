@@ -38,5 +38,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            david09x/practica7.1-daw/:latest
-            ghcr.io/david09x/practica7.1-daw/:latest
+            david09x/practica7.1-daw:latest
+            ghcr.io/david09x/practica7.1-daw:latest
